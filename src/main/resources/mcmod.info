@@ -1,0 +1,13 @@
+[
+{
+  "modid": "upnpsupport",
+  "name": "UPnP Support",
+  "description": "Allows you to open up your world for access outside of your LAN using UPnP with the WaifUPnP Library",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["HumanGamer"],
+  "credits": "HumanGamer, and the creator of WaifUPnP",
+  "logoFile": "",
+  "dependencies": []
+}
+]
